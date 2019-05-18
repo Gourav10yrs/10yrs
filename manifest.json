@@ -1,0 +1,37 @@
+{
+  "name"              : "10YearsQuestionPaper",
+  "short_name"        : "10YearsQP",
+  "description"       : "Find Previous Year Question Paper with Solution",
+  "start_url"         : "/index.html",
+  "display"           : "standalone",
+  "orientation"       : "natural",
+  "background_color"  : "#2897ed",
+  "theme_color"       : "#2897ed",
+  "icons": [
+    {
+      "src"           : "https://cdn.nutpanda.com/images/64.png",
+      "sizes"         : "64x64",
+      "type"          : "image/png"
+    },
+    {
+      "src"           : "https://cdn.nutpanda.com/images/128.png",
+      "sizes"         : "128x128",
+      "type"          : "image/png"
+    },
+    {
+      "src"           : "https://cdn.nutpanda.com/images/192.png",
+      "sizes"         : "192x192",
+      "type"          : "image/png"
+    },
+    {
+      "src"           : "https://cdn.nutpanda.com/images/256.png",
+      "sizes"         : "256x256",
+      "type"          : "image/png"
+    },
+    {
+      "src"           : "https://cdn.nutpanda.com/images/512.png",
+      "sizes"         : "512x512",
+      "type"          : "image/png"
+    }
+  ]
+}
